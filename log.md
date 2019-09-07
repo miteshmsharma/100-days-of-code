@@ -41,3 +41,39 @@ PassedNest Many Elements within a Single div Element
 PassedDeclare the Doctype of an HTML Document
 PassedDefine the Head and Body of an HTML Document
 **Link to work:** [WIP])
+
+### Day 4: Sept 7, 2019 
+
+**Today's Progress**: Half of the CSS Course of FCC Responsive Web Design for the 100daysofCode Challenge.
+
+**Thoughts:** Completed topics related to CSS topics Basic CSS
+Introduction to Basic CSS
+Change the Color of Text
+Use CSS Selectors to Style Elements
+Use a CSS Class to Style an Element
+Style Multiple Elements with a CSS Class
+Change the Font Size of an Element
+Set the Font Family of an Element
+Import a Google Font
+Specify How Fonts Should Degrade
+Size Your Images
+Add Borders Around Your Elements
+Add Rounded Corners with border-radius
+Make Circular Images with a border-radius
+Give a Background Color to a div Element
+Set the id of an Element
+Use an id Attribute to Style an Element
+Adjust the Padding of an Element
+Adjust the Margin of an Element
+Add a Negative Margin to an Element
+Add Different Padding to Each Side of an Element
+Add Different Margins to Each Side of an Element
+Use Clockwise Notation to Specify the Padding of an Element
+Use Clockwise Notation to Specify the Margin of an Element
+Use Attribute Selectors to Style Elements
+Understand Absolute versus Relative Units
+Style the HTML Body Element
+Inherit Styles from the Body Element
+Prioritize One Style Over Another
+Override Styles in Subsequent CSS
+**Link to work:** [WIP])
