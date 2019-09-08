@@ -77,3 +77,13 @@ Inherit Styles from the Body Element
 Prioritize One Style Over Another
 Override Styles in Subsequent CSS
 **Link to work:** [WIP])
+
+### Day 5: Sept 8, 2019 
+
+**Today's Progress**: Half of the CSS Course of FCC Responsive Web Design for the 100daysofCode Challenge.
+
+**Thoughts:** Completed topics related to Basic CSS. Penguin was fun. Explored Test Framework Jasmine and Mocha.
+Knowing the way to over ride the CSS styles was fun, the order followed, precedence id, class, in-line etc.
+CSS variables, fallback, !important and I am loving it all.
+Tomorrows topic - Applied Visual Design Challenge
+**Link to work:** [WIP])
