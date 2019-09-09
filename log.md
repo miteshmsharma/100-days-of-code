@@ -87,3 +87,13 @@ Knowing the way to over ride the CSS styles was fun, the order followed, precede
 CSS variables, fallback, !important and I am loving it all.
 Tomorrows topic - Applied Visual Design Challenge
 **Link to work:** [WIP])
+
+### Day 6: Sept 9 2019 
+
+**Today's Progress**:  
+Progressed with half of the Applied Visual Design of Responsive Web Design Certification FCC Responsive Web Design for the 100daysofCode Challenge.
+
+**Thoughts:** The visual design and color generation complementing principle are all very important.
+Knowing the way to place offset, color combination, height and width of text and natural flow as well as CSS Boxing.
+Tomorrows topic - Remaining half of Applied Visual Design Challenge
+**Link to work:** [WIP])
