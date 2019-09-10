@@ -97,3 +97,15 @@ Progressed with half of the Applied Visual Design of Responsive Web Design Certi
 Knowing the way to place offset, color combination, height and width of text and natural flow as well as CSS Boxing.
 Tomorrows topic - Remaining half of Applied Visual Design Challenge
 **Link to work:** [WIP])
+
+### Day 7: Sept 10, 2019 
+
+**Today's Progress**: Completed the Applied Virtual Design of Responsive Web Design Certification.   
+
+**Thoughts:** Very interesting and way animation works is clear to me first time.  
+
+Tomorrows topic - Applied Accessibility Challenges. I am loving it...   
+
+**Link to work:** [WIP])  
+
+
