@@ -108,4 +108,14 @@ Tomorrows topic - Applied Accessibility Challenges. I am loving it...
 
 **Link to work:** [WIP])  
 
+### Day 8: Sept 11, 2019 
+
+**Today's Progress**: Completed the Applied Accessibility Challenges of Responsive Web Design Certification.   
+
+**Thoughts:** Got a very close understanding of the world of accessibility and its importance for open web.    
+Tomorrows topic - Responsive Web Design Principles Challenges  
+   
+**Link to work:** [WIP])  
+
+
 
