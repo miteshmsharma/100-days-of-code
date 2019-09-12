@@ -118,4 +118,22 @@ Tomorrows topic - Responsive Web Design Principles Challenges
 **Link to work:** [WIP])  
 
 
+### Day 9: Sept 12, 2019 
+
+**Today's Progress**: Completed the Responsive Web Design Principles Challenges of Responsive Web Design Certification.  
+
+  
+
+**Thoughts:** Despite the power/internet situation. I still feel like I have not learnt the ropes so far... but way better than what I began with. As some of the challenge comment says - OVER THE TOPS  
+  
+
+
+Tomorrows topic CSS Flex box Challenges  
+
+  
+  **Link to work:** [WIP])  
+
+
+
+
 
