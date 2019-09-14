@@ -133,6 +133,16 @@ Tomorrows topic CSS Flex box Challenges
   
   **Link to work:** [WIP])  
 
+### Day 10: Sept 14, 2019  
+
+**Today's Progress**: Completed the CSS Flexbox Challenges of Responsive Web Design Certification.  
+
+**Thoughts:** This was really neat in terms of giving an understanding about the container and items and the placements thereafter.  This also give a way to know about efficient utilization and ordering of flex-items.  
+
+**Tomorrows topic:** CSS Grid box Challenges  
+
+**Link to work:** [WIP])  
+
 
 
 
