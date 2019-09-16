@@ -190,13 +190,24 @@ Create Flexible Layouts Using auto-fit
 Use Media Queries to Create Responsive Layouts  
 Create Grids within Grids  
 
+
+
 **Thoughts:** What a day to code CSS Gridbox Challenge of Responsive Web Design Certification. I am awestruck by the simplicity which CSS provides with all the display:grid related tags. auto and repeat is my favorite here-on. I wonder how it work under the hood. Anybody knowing this?  
 
 **Tomorrows topic:** finish the projects...  
 
 
 **Link to work:** [WIP])  
+### Day 12: Sept 16, 2019  
 
+**Today's Progress**: Completed the first project test of Tribute Page - Responsive Web Design Certification.  
+
+**Thoughts:** Started off with learning about Open redirect vulnerability prevention in OWASP. The topic was too complex for me to understand. However tomorrow is another day and I intend to understand this topic by going over the Egor Homakov's blog. Also completed the Tribute page of FCC curiculum.  
+
+**Tomorrows topic:** finish the projects...  
+
+
+**Link to work:** [WIP])  
 
 
 
