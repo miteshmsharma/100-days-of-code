@@ -210,4 +210,24 @@ Create Grids within Grids
 **Link to work:** [WIP])  
 
 
+### Day 13: Sept 17 2019  
+
+**Today's Progress**: Completed the Responsive Web Design Certification. Passed following Project Challenges  
+
+Build a Tribute Page  
+
+Build a Survey Form  
+
+Build a Product Landing Page  
+
+Build a Technical Documentation Page  
+
+Build a Personal Portfolio Webpage  
+
+
+**Thoughts:** Completed the projects for Responsive Web Development Challenges and earned the certification.
+
+**Tomorrows topic:** Most awaited and very reason I am learning to code Javascript Algorithms And Data Structures...    
+
+**Link to work:** [WIP])    
 
