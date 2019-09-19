@@ -231,3 +231,13 @@ Build a Personal Portfolio Webpage
 
 **Link to work:** [WIP])    
 
+### Day 14: Sept 19 2019  
+
+**Today's Progress**: Completed the Basic JavaScript from FCC - JavaScript Algo and Data Structure tipic
+
+
+**Thoughts:** Much of the things covered are known but this gives me an opportunity to graduate from being a noob to experienced Web developer by completing the organized course
+
+**Tomorrows topic:** ES6
+
+**Link to work:** [WIP])    
