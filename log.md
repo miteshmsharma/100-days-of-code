@@ -241,3 +241,15 @@ Build a Personal Portfolio Webpage
 **Tomorrows topic:** ES6
 
 **Link to work:** [WIP])    
+
+
+### Day 15: Sept 20 2019  
+
+**Today's Progress**: I still did not complete the basic JavaScript from FCC - JavaScript Algo and Data Structure topic I was half slept y'day when I said I completed it
+
+
+**Thoughts:** The consideration provided in this chapter for array, operators, variables, data type is marvelous.
+
+**Tomorrows topic:** Well still will be stuck with the Basic JS
+
+**Link to work:** [WIP])    
