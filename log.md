@@ -253,3 +253,14 @@ Build a Personal Portfolio Webpage
 **Tomorrows topic:** Well still will be stuck with the Basic JS
 
 **Link to work:** [WIP])    
+
+
+### Day 16: Sept 22 2019  
+
+**Today's Progress**: Missed a day again yday Continued with JS Basic on FCC. Global vs. Local Scope in Functions, Basic JavaScript: Assignment with a Returned Value, Basic JavaScript: Understanding Boolean Values, equality and strict equality.  
+
+**Thoughts:** To my surprise  this chapter is having all the more ways to use the JS features.
+
+**Tomorrows topic:** Hope tomorrow will be the end for with the Basic JS
+
+**Link to work:** [WIP])    
