@@ -264,3 +264,13 @@ Build a Personal Portfolio Webpage
 **Tomorrows topic:** Hope tomorrow will be the end for with the Basic JS
 
 **Link to work:** [WIP])    
+
+### Day 17: Sept 23 2019  
+
+**Today's Progress**: Stuck on the complex JSON modification challenge. The album property is to be set to value but the code doesn't work. Will cont tomm..  
+
+**Thoughts:** Its starting to be more like challenge now.
+
+**Tomorrows topic:** Hope tomorrow will be the end for with the Basic JS
+
+**Link to work:** [WIP]) 
