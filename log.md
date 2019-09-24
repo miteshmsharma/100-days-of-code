@@ -274,3 +274,14 @@ Build a Personal Portfolio Webpage
 **Tomorrows topic:** Hope tomorrow will be the end for with the Basic JS
 
 **Link to work:** [WIP]) 
+
+### Day 18: Sept 24 2019  
+
+**Today's Progress**:   Completed the basic Javascript and started the ES6 chapter let, const, arrow function all the sweetness...  
+
+**Thoughts:** Its starting to be more like challenge now arrow function was tough and to understand filter map and reduce is the key.
+
+**Tomorrows topic:** I will focus on understanding the arrow function tomm.  
+
+**Link to work:** [WIP])   
+
