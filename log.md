@@ -285,3 +285,14 @@ Build a Personal Portfolio Webpage
 
 **Link to work:** [WIP])   
 
+### Day 19: Sept 25 2019  
+
+**Today's Progress**:   Completed the ES6 chapter var, let, freeze, arrow function, rest operator, spread operator, export. shadow dom, custom elements  
+
+**Thoughts:** When I was going over the features offered in ES6 I thought to myself so many advancements to save some lines of code or is it something more, the notation, the confusing world of anonymous functions
+
+**Tomorrows topic:** Regular expressions  
+
+**Link to work:** [WIP])   
+
+
