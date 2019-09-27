@@ -295,4 +295,23 @@ Build a Personal Portfolio Webpage
 
 **Link to work:** [WIP])   
 
+### Day 20: Sept 26 2019  
+
+**Today's Progress**:   Reg Expressions, completed 4 beginning challenges only 
+
+**Thoughts:** Very gripping indeed but had some prior lunch meetings so could not progress more
+
+**Tomorrows topic:** Regular expressions  continued
+
+**Link to work:** [WIP])   
+
+### Day 21: Sept 27 2019  
+
+**Today's Progress**:   RE knockedout, 
+
+**Thoughts:** so many past bad memories I am sitting dumbfounded looking at the expressions for regex thinking  that one day I will know what's the notation well today is the day I feel complete    
+
+**Tomorrows topic:** Debugging 
+
+**Link to work:** [WIP])   
 
