@@ -315,3 +315,12 @@ Build a Personal Portfolio Webpage
 
 **Link to work:** [WIP])   
 
+### Day 22: Sept 28 2019  
+
+**Today's Progress**:   Debugging complete
+
+**Thoughts:** got to know about few quick low hanging fruits to bolo when being a js detective  
+
+**Tomorrows topic:** Data Structures  
+
+**Link to work:** [WIP])  
