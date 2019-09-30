@@ -324,3 +324,13 @@ Build a Personal Portfolio Webpage
 **Tomorrows topic:** Data Structures  
 
 **Link to work:** [WIP])  
+
+### Day 23: Sept 30 2019  
+
+**Today's Progress**:   Basic Data Structures
+
+**Thoughts:** Basic Data structure completed @fcc challenge for  js data structure. Its amazing how deep an array/object can go and the retrieval syntax honestly is a tough thing  to understand  
+
+**Tomorrows topic:**  Basic Algo  
+
+**Link to work:** [WIP])  
