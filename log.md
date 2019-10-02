@@ -334,3 +334,14 @@ Build a Personal Portfolio Webpage
 **Tomorrows topic:**  Basic Algo  
 
 **Link to work:** [WIP])  
+
+### Day 24: Oct 2 2019  
+
+**Today's Progress**:   Basic Algorithm started off was a busy day after the trip to Dewas.
+
+**Thoughts:** Basic Algorithm halfway completed @fcc challenge for 
+Reverse a String, Factorialize a Number, Find the Longest Word in a String among others. 
+
+**Tomorrows topic:**  Basic Algo continues
+
+**Link to work:** [WIP])  
