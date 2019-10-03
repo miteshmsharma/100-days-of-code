@@ -345,3 +345,14 @@ Reverse a String, Factorialize a Number, Find the Longest Word in a String among
 **Tomorrows topic:**  Basic Algo continues
 
 **Link to work:** [WIP])  
+
+### Day 25: Oct 3 2019  
+
+**Today's Progress**:   Basic Algorithm 75 % completed
+
+**Thoughts:** @fcc challenge for 
+Return Largest Numbers in Arrays, Confirm the Ending, Repeat a String Repeat a String, Truncate a String among others. . 
+
+**Tomorrows topic:**  Basic Algo continued
+
+**Link to work:** [WIP])  
