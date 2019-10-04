@@ -356,3 +356,12 @@ Return Largest Numbers in Arrays, Confirm the Ending, Repeat a String Repeat a S
 **Tomorrows topic:**  Basic Algo continued
 
 **Link to work:** [WIP])  
+### Day 26: Oct 4 2019  
+
+**Today's Progress**:   Basic Algorithm 100 % completed  
+
+**Thoughts:** a very wonderful learning although I have to admit that some of them were out rightly difficult for me. In addition to this I took a stab at testing the components in JEST  
+
+**Tomorrows topic:**  OOP Challenges  
+
+ 
