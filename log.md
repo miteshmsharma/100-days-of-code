@@ -356,6 +356,7 @@ Return Largest Numbers in Arrays, Confirm the Ending, Repeat a String Repeat a S
 **Tomorrows topic:**  Basic Algo continued
 
 **Link to work:** [WIP])  
+
 ### Day 26: Oct 4 2019  
 
 **Today's Progress**:   Basic Algorithm 100 % completed  
@@ -363,5 +364,14 @@ Return Largest Numbers in Arrays, Confirm the Ending, Repeat a String Repeat a S
 **Thoughts:** a very wonderful learning although I have to admit that some of them were out rightly difficult for me. In addition to this I took a stab at testing the components in JEST  
 
 **Tomorrows topic:**  OOP Challenges  
+
+### Day 27: Oct 6 2019  
+
+**Today's Progress**:   OOP Challenges Halfway completed 
+
+**Thoughts:**  loved the way the challenges are detailing the real world objects. Imp stuff objects are modeled in JS object notation which becomes very imp in SF einstein analytics  
+
+**Tomorrows topic:**  OOP Challenges  
+
 
  
