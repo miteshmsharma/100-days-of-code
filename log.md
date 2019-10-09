@@ -373,5 +373,21 @@ Return Largest Numbers in Arrays, Confirm the Ending, Repeat a String Repeat a S
 
 **Tomorrows topic:**  OOP Challenges  
 
+### Day 28: Oct 8 2019  
+
+**Today's Progress**:   Page Analysis tools learnt 
+
+**Thoughts:**    Today learned a great deal about page analysis by going through analysis provided by https://developers.google.com/speed/pagespeed/insights/ As this is equally important if goal is to build web solutions to sell.  
+
+**Tomorrows topic:**  OOP Challenges  Continues  
+
+### Day 29: Oct 9 2019  
+
+**Today's Progress**:   OOP Challenges Complete 
+
+**Thoughts:**   I completed the Object Oriented Programming challenges and things were quite straightforward to understand though so many important programming concepts have their roots in these OOP framework.  
+
+**Tomorrows topic:**  Functional Programming  Challenges  
+
 
  
