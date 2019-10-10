@@ -389,5 +389,13 @@ Return Largest Numbers in Arrays, Confirm the Ending, Repeat a String Repeat a S
 
 **Tomorrows topic:**  Functional Programming  Challenges  
 
+### Day 30: Oct 10 2019  
+
+**Today's Progress**:   Functional Programming topics and Challenges 
+
+**Thoughts:**    Learn FP, Understand FP Terminology, Hazards of Using Imperative Code, Avoid Mutations and Side Effects using FP, Pass Arguments to Avoid External Dependence in a Function, Refactor Global Variables Out of Functions.  
+
+**Tomorrows topic:**  Functional Programming  Challenges  Continued
+
 
  
