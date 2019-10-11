@@ -397,5 +397,12 @@ Return Largest Numbers in Arrays, Confirm the Ending, Repeat a String Repeat a S
 
 **Tomorrows topic:**  Functional Programming  Challenges  Continued
 
+### Day 31: Oct 11 2019  
+
+**Today's Progress**:   Functional Programming topics and Challenges 
+
+**Thoughts:**    Completed the remaining Functional Programming. understood the implementation of map, filter and other prototype methods for array. Did the research on npm package and vs code extensions.   
+
+**Tomorrows topic:**  Functional Programming  Challenges  Continued
 
  
