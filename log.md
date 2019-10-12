@@ -405,4 +405,13 @@ Return Largest Numbers in Arrays, Confirm the Ending, Repeat a String Repeat a S
 
 **Tomorrows topic:**  Functional Programming  Challenges  Continued
 
+### Day 32: Oct 12 2019  
+
+**Today's Progress**:   Functional Programming topics completed 
+
+**Thoughts:**     can see the diff between I (today()-1) and I (today()). Concat map filter reduce sort split join  
+   
+**Tomorrows topic:**  Intermediate Algo Challenges. Solved first one with involved sum all num in range  
+
+
  
