@@ -414,4 +414,13 @@ Return Largest Numbers in Arrays, Confirm the Ending, Repeat a String Repeat a S
 **Tomorrows topic:**  Intermediate Algo Challenges. Solved first one with involved sum all num in range  
 
 
+### Day 33: Oct 14 2019  
+
+**Today's Progress**:   Attempted few of the challenges for Intermediate algorithm  
+
+**Thoughts:**     Not feeling that I have gotten handle on things but not getting discouraged.  
+    
+**Tomorrows topic:**  Intermediate Algo Challenges. Solved first one with involved sum all num in range  
+
+
  
