@@ -422,5 +422,14 @@ Return Largest Numbers in Arrays, Confirm the Ending, Repeat a String Repeat a S
     
 **Tomorrows topic:**  Intermediate Algo Challenges. Solved first one with involved sum all num in range  
 
+### Day 34: Oct 15 2019  
+
+**Today's Progress**:    Attempted 3 of the challenges for Intermediate algorithm  
+
+**Thoughts:**   - Diff two arrays, seek and destroy and Wherefore art thou. Reinforced learnings and new understandings and neural network forming  
+
+**Tomorrows topic:**  Intermediate Algo Challenges cont  
+
+
 
  
