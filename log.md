@@ -430,6 +430,13 @@ Return Largest Numbers in Arrays, Confirm the Ending, Repeat a String Repeat a S
 
 **Tomorrows topic:**  Intermediate Algo Challenges cont  
 
+### Day 35: Oct 17 2019  
 
+**Today's Progress**:    Today did the Node.js coding on Heroku to map REST response from Watson Discovery service to XML to be consumed in SFDC webapp.  
+
+**Thoughts:**: can't login to FCC to continue with my Intermediate Algo challenges and thats disheartening....
+
+**Tomorrows topic:**  Will try to continue Intermediate Algo Challenges  
+ 
 
  
