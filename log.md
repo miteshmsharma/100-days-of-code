@@ -438,5 +438,20 @@ Return Largest Numbers in Arrays, Confirm the Ending, Repeat a String Repeat a S
 
 **Tomorrows topic:**  Will try to continue Intermediate Algo Challenges  
  
+ ### Day 36: Oct 18 2019  
+
+**Today's Progress**:     can't login to Learn - FCC update on twitter handle advice to be patient :-( Therefore today did the challenge on hackerrank 10 days of js - Day 0
+
+**Thoughts:**: Felt Some progress 
+
+**Tomorrows topic:**   Cont Hackerrank Day 1.
+
+### Day 37: Oct 19 2019  
+
+**Today's Progress**:   Cont Hackerrank Day 1.  Did the lightning web component opensource - express server.
+
+**Thoughts:**:  Got stuck in fetching data from salesforce but otherwise was able to create the sessions and session details and speaker card. 
+
+**Tomorrows topic:**  Hackerrank day 2, FCC learn and Local dev server.  
 
  
