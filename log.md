@@ -454,4 +454,10 @@ Return Largest Numbers in Arrays, Confirm the Ending, Repeat a String Repeat a S
 
 **Tomorrows topic:**  Hackerrank day 2, FCC learn and Local dev server.  
 
- 
+ ### Day 38: Oct 21 2019  
+
+**Today's Progress**:   completed Wherefore art thou, Spinal Tap Case, Pig Latin, Search and Replace, DNA Pairing
+
+**Thoughts:**:  Happy because the learn free code camp is back in its full glory, resumed the  challenges for intermediate algorithm
+
+**Tomorrows topic:**  remaining Challenges for Int algorithm 
