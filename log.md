@@ -461,3 +461,11 @@ Return Largest Numbers in Arrays, Confirm the Ending, Repeat a String Repeat a S
 **Thoughts:**:  Happy because the learn free code camp is back in its full glory, resumed the  challenges for intermediate algorithm
 
 **Tomorrows topic:**  remaining Challenges for Int algorithm 
+
+ ### Day 39: Oct 23 2019  
+
+**Today's Progress**:   completed Missing alphabet, Sorted Union, convert HTML entities ,Sum all odd Fibinnacci series, Sum all Primes using the sieve algorithm from the wikipedia link
+
+**Thoughts:**:  convert HTML entities - in this one had tough time when order of replace was causing issue with &lt;
+
+**Tomorrows topic:**  Remaining 8 Challenges to be completed  
