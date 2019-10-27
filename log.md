@@ -469,3 +469,11 @@ Return Largest Numbers in Arrays, Confirm the Ending, Repeat a String Repeat a S
 **Thoughts:**:  convert HTML entities - in this one had tough time when order of replace was causing issue with &lt;
 
 **Tomorrows topic:**  Remaining 8 Challenges to be completed  
+
+ ### Day 40,41,42 : Oct 27 2019  
+
+**Today's Progress**:   I took topcoder challenge. And since the timelines were strick could not document the progress.
+
+**Thoughts:**:  I did the following during this time - Svelte framework, js compilation, custom events, data tables, registering for the events, custom html element in form of LWC and Nodejs oss
+
+**Tomorrows topic:**  Remaining FCC Intermediate Challenges to be completed  
