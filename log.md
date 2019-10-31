@@ -477,3 +477,18 @@ Return Largest Numbers in Arrays, Confirm the Ending, Repeat a String Repeat a S
 **Thoughts:**:  I did the following during this time - Svelte framework, js compilation, custom events, data tables, registering for the events, custom html element in form of LWC and Nodejs oss
 
 **Tomorrows topic:**  Remaining FCC Intermediate Challenges to be completed  
+
+ ### Day 43 : Oct 28 2019  
+
+**Today's Progress**:   I created front end for TODO app react js. Did the creation of app, routes, components, binding of react component,  creation of form, input element,.
+
+**Thoughts:**:  more hands on projects. Learning by participating on topcoder challenge
+
+**Tomorrows topic:**  Remaining FCC Intermediate Challenges to be completed  
+
+ ### Day 44, 45 : Oct 31 2019  
+
+**Today's Progress**:   I created schema of Mongoose db, and hooked it up with react front end
+
+**Thoughts:**:  In addition I was able to finish 4 intermediate challenges  - find the LCM, strip the array, flatten the array and  binary to String.
+**Tomorrows topic:**  Remaining 4 FCC Intermediate Challenges to be completed  
