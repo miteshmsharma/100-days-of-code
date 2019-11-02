@@ -491,4 +491,11 @@ Return Largest Numbers in Arrays, Confirm the Ending, Repeat a String Repeat a S
 **Today's Progress**:   I created schema of Mongoose db, and hooked it up with react front end
 
 **Thoughts:**:  In addition I was able to finish 4 intermediate challenges  - find the LCM, strip the array, flatten the array and  binary to String.
-**Tomorrows topic:**  Remaining 4 FCC Intermediate Challenges to be completed  
+**Tomorrows topic:**  Remaining 4 FCC Intermediate Challenges to be completed 
+
+### Day 46 : Nov 2 2019  
+
+**Today's Progress**:  I finished the Intermediate challenges by completing the fund the truth, collect the debris, make a person and Add together.
+
+**Thoughts:**:  In addition I was able to finish 2 new challenges for the recursion topic
+**Tomorrows topic:**  PROJECT TO EARN THE CERTIFICATION
