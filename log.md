@@ -499,3 +499,10 @@ Return Largest Numbers in Arrays, Confirm the Ending, Repeat a String Repeat a S
 
 **Thoughts:**:  In addition I was able to finish 2 new challenges for the recursion topic
 **Tomorrows topic:**  PROJECT TO EARN THE CERTIFICATION
+
+### Day 47 48 : Nov 4 2019  
+
+**Today's Progress**:  I finished all the Interm challenges, completed the projects for Palindrome, Roman Numeral, Cash register, US telephone check and Caesar Cipher 
+
+**Thoughts:**:  The new challenges added are also finished  relating to promises and recursion.
+**Tomorrows topic:**  PROCEED with FRONTEND FRAMEWORK BOOTSTRAP
