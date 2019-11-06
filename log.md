@@ -506,3 +506,11 @@ Return Largest Numbers in Arrays, Confirm the Ending, Repeat a String Repeat a S
 
 **Thoughts:**:  The new challenges added are also finished  relating to promises and recursion.
 **Tomorrows topic:**  PROCEED with FRONTEND FRAMEWORK BOOTSTRAP
+
+
+### Day 49 : Nov 6 2019  
+
+**Today's Progress**:  I started with Bootstrap Challenges - done with container-fluid, image-responsive and text-center classes of the bootstrap responsive library. 
+
+**Thoughts:**:  The thought arise that I am already half way into the course and still far from getting handle on things. This is frustrating
+**Tomorrows topic:**  PROCEED with OTHER FRONTEND FRAMEWORK BOOTSTRAP CHALLENGES
