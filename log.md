@@ -514,3 +514,10 @@ Return Largest Numbers in Arrays, Confirm the Ending, Repeat a String Repeat a S
 
 **Thoughts:**:  The thought arise that I am already half way into the course and still far from getting handle on things. This is frustrating
 **Tomorrows topic:**  PROCEED with OTHER FRONTEND FRAMEWORK BOOTSTRAP CHALLENGES
+
+### Day 50 : Nov 8 2019  
+
+**Today's Progress**:  template.queryselector- lightning web component, custom events to propogate search keys. Used constructor, super, connected callback, register listener, handler, render call back. I used data-id to select the DOM element to perform refresh on its selected row by setting it to empty [].
+
+**Thoughts:**:   I have handle on things now. Its not frustrating. I am loving it.
+**Tomorrows topic:**  PROCEED with OTHER Bootstrap fcc and create component using D3.js in LWC
