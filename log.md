@@ -521,3 +521,10 @@ Return Largest Numbers in Arrays, Confirm the Ending, Repeat a String Repeat a S
 
 **Thoughts:**:   I have handle on things now. Its not frustrating. I am loving it.
 **Tomorrows topic:**  PROCEED with OTHER Bootstrap fcc and create component using D3.js in LWC
+
+### Day 51 : Nov 10 2019  
+
+**Today's Progress**:  completed the bootstrap challenges and my cats happy with div with class rows and div with class cols and text-danger and icons in button and all rich spacings...
+
+**Thoughts:**:  I love the flexibiltiy bootstrap provides
+**Tomorrows topic:**  jQuery here I come 
