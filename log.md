@@ -528,3 +528,20 @@ Return Largest Numbers in Arrays, Confirm the Ending, Repeat a String Repeat a S
 
 **Thoughts:**:  I love the flexibiltiy bootstrap provides
 **Tomorrows topic:**  jQuery here I come 
+
+### Day 52 : Nov 12 2019  
+
+**Today's Progress**:  completed the jquery challenges halfway and liked the way flexibility to change the element class, add remove and update html element... Powerful
+
+**Thoughts:** - I love the flexibiltiy jQuery ready function   
+
+**Tomorrows topic:**  remaining jQuery challenges  
+
+### Day 53 : Nov 14 2019  
+
+**Today's Progress**:  SASS completed also investigated the way for getting the CSS programmed and 
+explored the THREE.JS library for the possibilities with 3d renderings...  
+
+**Thoughts:**:  I love workign with Three.js  
+**Tomorrows topic:**  onto react redux  
+ 
