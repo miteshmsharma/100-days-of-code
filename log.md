@@ -544,4 +544,12 @@ explored the THREE.JS library for the possibilities with 3d renderings...
 
 **Thoughts:**:  I love workign with Three.js  
 **Tomorrows topic:**  onto react redux  
+
+### Day 54 : Nov 15 2019  
+
+**Today's Progress**:  I completed more challenges for React - it included - getting the component function and React component defined, rendered. Nesting of the component and rules for the same. ReactDOM renderer. Gatsby, Cosmic Headless cms and i kept diving deep phewwww...
+
+**Thoughts:**:  as the way it is unfolding I am actually feeling overwhelmed. Why so many things with js to learn.  
+
+**Tomorrows topic:**  remaining react challenges 27 remains now.  
  
